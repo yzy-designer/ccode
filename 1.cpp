@@ -26,5 +26,5 @@ void main()
 		a=a/10;
 		
 	}	
-	cout<<  s;*/
+	cout<<  s;
 }
